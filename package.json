@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/Reza-Mahmoudian/notalonetrip/issues"
   },
-  "homepage": "https://github.com/Reza-Mahmoudian/notalonetrip#readme"
+  "homepage": "https://github.com/Reza-Mahmoudian/notalonetrip#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "helmet": "^5.0.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
 }
