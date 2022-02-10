@@ -5,9 +5,7 @@
 
 Notalonetrip has been designed to help who wants to share their memmories about trip and find a person to go to a trip wth.  
 
-## Link
 
-- See the live application here: https://okcreature/herokuapp.com
 
 ## Table of Contents
 - [Usage](#usage)
